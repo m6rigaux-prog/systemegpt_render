@@ -1,0 +1,41 @@
+# Environnement Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.env
+.venv
+venv/
+env/
+build/
+dist/
+
+# Fichiers d'environnement
+*.env
+.env.*
+
+# Configuration IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+*.sqlite3
+
+# Caches et tests
+.cache/
+.coverage
+.pytest_cache/
+.tox/
+.mypy_cache/
+htmlcov/
+
+# Autres
+.DS_Store
+Thumbs.db
